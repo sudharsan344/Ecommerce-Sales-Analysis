@@ -61,19 +61,14 @@ This project analyzes an e-commerce sales dataset using Python to uncover meanin
 - ## 📊 Project Visualizations
 
 ### 📌 Top 10 Products by Sales
-![Top 10 Products by Sales](top_10_products_by_sales.png)
 
 ### 📌 Sales by Category
-![Sales by Category](sales_by_category.png)
 
 ### 📌 Profit by Category
-![Profit by Category](profit_by_category.png)
 
 ### 📌 Sales by Region
-![Sales by Region](sales_by_region.png)
 
 ### 📌 Sales by Segment
-![Sales by Segment](sales_by_segment.png)
 
 ## 📁 Project Structure
 
