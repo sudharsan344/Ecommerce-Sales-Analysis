@@ -59,19 +59,22 @@ This project analyzes an e-commerce sales dataset using Python to uncover meanin
 - Python Programming
 - Data Manipulation using Pandas
 - ## 📊 Project Visualizations
+### 🏆 Top 10 Products
+![Top 10 Products](Top 10 Product Sales .png)
 
-### 📌 Top 10 Products by Sales 
+### 📦 Sales by Category
+![Sales by Category](Sales By Category.png)
 
-### 📌 Sales by Category
+### 📊 Profit by Category
+![Profit by Category](Pofit_Category.png)
 
-### 📌 Profit by Category
+### 🌍 Region by Sales
+![Region by Sales](Region By Sales.png)
 
-### 📌 Sales by Region
-
-### 📌 Sales by Segment
+### 👥 Sales by Segment
+![Sales by Segment](Sales By Segment.png)
 
 ## 📁 Project Structure
-
 ```
 Ecommerce-Sales-Analysis/
 │── ecommerce_sales_analysis.ipynb
