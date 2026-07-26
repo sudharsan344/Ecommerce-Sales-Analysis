@@ -73,7 +73,7 @@ This project analyzes an e-commerce sales dataset using Python to uncover meanin
 
 ## 🌍 Sales by Region
 
-![Sales by Region](Region_By_Sales.png)
+![Region_by_sales](Region_By_Sales.png)
 
 ## 👥 Sales by Segment
 
