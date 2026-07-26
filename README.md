@@ -66,7 +66,7 @@ This project analyzes an e-commerce sales dataset using Python to uncover meanin
 ![Sales by Category](Sales By Category.png)
 
 ### 📊 Profit by Category
-![Profit by Category](Pofit_Category.png)
+![Profit by Category](Profit_Category.png)
 
 ### 🌍 Region by Sales
 ![Region by Sales](Region By Sales.png)
