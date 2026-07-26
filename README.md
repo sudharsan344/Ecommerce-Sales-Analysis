@@ -60,7 +60,7 @@ This project analyzes an e-commerce sales dataset using Python to uncover meanin
 - Data Manipulation using Pandas
 - ## 📊 Project Visualizations
 
-### 📌 Top 10 Products by Sales
+### 📌 Top 10 Products by Sales 
 
 ### 📌 Sales by Category
 
